@@ -20,5 +20,15 @@
 
 Helpful links to get this working were:
 
-* DB-UI
-** Rendered Pattern Lab: https://github.com/db-ui/core/blob/gh-pages/patterns/pages-sample-page/pages-sample-page.rendered.html
+[cols="1,1" options="header"]
+|===
+| Site
+| Code
+
+| link:https://db-ui.github.io/core/?p=pages-sample-page[Sample Page]
+| https://github.com/db-ui/core/blob/gh-pages/patterns/pages-sample-page/pages-sample-page.rendered.html
+
+| link:https://db-ui.github.io/core/?p=viewall-elements-all[All Elements]
+| https://github.com/db-ui/core/blob/gh-pages/patterns/elements/index.html
+
+|===
