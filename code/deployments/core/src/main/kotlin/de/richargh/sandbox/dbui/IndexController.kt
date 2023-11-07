@@ -52,12 +52,10 @@ class IndexController{
                                     </ul>
                                   </li>
                                   <li>
-                                    <a href="#" class="elm-link " title="" rel="offers">Aufträge
-                                    </a>
+                                    <a href="/pages/elements.html" class="elm-link " title="" rel="index">Elements</a>
                                   </li>
                                   <li>
-                                    <a href="#" class="elm-link " title="" rel="news">News
-                                    </a>
+                                    <a href="/pages/components.html" class="elm-link " title="" rel="index">Components</a>
                                   </li>
                                 </ul>
                               </nav>
