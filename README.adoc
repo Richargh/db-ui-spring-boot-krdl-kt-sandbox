@@ -1,0 +1,24 @@
+= DB-UI Core with Spring Boot (Sandbox)
+
+== Features
+
+* Plain Html
+* link:https://db-ui.github.io/core/[DB-UI Core]
+* Spring Boot
+
+== Preconditions
+
+* Install the java version from link:.sdkmanrc[] via link:https://sdkman.io/[SdkMan] by calling `sdk env`
+* Install the node version from link:.nvmrc[] via link:https://github.com/Schniz/fnm[fnm] (or link:https://github.com/nvm-sh/nvm[nvm]]) by calling `fnm use`
+
+== Usage
+
+* Build and move .js files to src/main/resources/public via `cd code/assets && npm ci && npm run build:dbui`
+* Run server via `./gradlew bootRun` and open link:http://localhost:8080[localhost:8080].
+
+== Acknowledgements
+
+Helpful links to get this working were:
+
+* DB-UI
+** Rendered Pattern Lab: https://github.com/db-ui/core/blob/gh-pages/patterns/pages-sample-page/pages-sample-page.rendered.html
