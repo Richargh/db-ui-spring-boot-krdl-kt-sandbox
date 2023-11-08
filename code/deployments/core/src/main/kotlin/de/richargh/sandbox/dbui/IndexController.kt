@@ -39,10 +39,10 @@ class IndexController{
                                         </ul>
                                       </li>
                                       <li aria-haspopup="true">
-                                        <a href="#" class="elm-link " title="" rel="offers">Specific
-                                        </a>
+                                        <a href="#" class="elm-link " title="" rel="offers">Components</a>
                                         <ul>
-                                          <li><a href="/pages/elements.html" class="elm-link " title="" rel="index">Elements</a></li>
+                                            <li><a href="/pages/components/dialog.html" class="elm-link " title="" rel="index">Dialog</a></li>
+                                            <li><a href="/pages/components/table.html" class="elm-link " title="" rel="index">Table</a></li>
                                         </ul>
                                       </li>
                                       <li>
@@ -52,10 +52,10 @@ class IndexController{
                                     </ul>
                                   </li>
                                   <li>
-                                    <a href="/pages/elements.html" class="elm-link " title="" rel="index">Elements</a>
+                                    <a href="/pages/elements.html" class="elm-link " title="" rel="index">All Elements</a>
                                   </li>
                                   <li>
-                                    <a href="/pages/components.html" class="elm-link " title="" rel="index">Components</a>
+                                    <a href="/pages/components.html" class="elm-link " title="" rel="index">All Components</a>
                                   </li>
                                 </ul>
                               </nav>
@@ -103,6 +103,9 @@ class IndexController{
                                 </a>
                               </div>
                             </header>
+                            <main class="rea-main">
+                                <h1>Hallo</h1>
+                            </main>
                         </body>
                         </html>
                         """.trimIndent())
