@@ -39,6 +39,12 @@ class IndexController{
                                         </ul>
                                       </li>
                                       <li aria-haspopup="true">
+                                        <a href="#" class="elm-link " title="" rel="offers">Elements</a>
+                                          <ul>
+                                            <li><a href="/pages/elements/input.html" class="elm-link " title="" rel="index">Input</a></li>
+                                          </ul>
+                                      </li>
+                                      <li aria-haspopup="true">
                                         <a href="#" class="elm-link " title="" rel="offers">Components</a>
                                         <ul>
                                             <li><a href="/pages/components/dialog.html" class="elm-link " title="" rel="index">Dialog</a></li>

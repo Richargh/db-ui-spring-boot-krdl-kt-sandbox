@@ -31,6 +31,10 @@ Helpful links to get this working were:
 | link:https://db-ui.github.io/core/?p=viewall-elements-all[All Elements]
 | https://github.com/db-ui/core/blob/gh-pages/patterns/elements/index.html
 
+| link:https://db-ui.github.io/core/?p=viewall-elements-input[Input Element]
+| https://github.com/db-ui/core/blob/gh-pages/patterns/elements-input/index.html
+
+
 | link:https://db-ui.github.io/core/?p=viewall-components-all[All Components]
 | https://github.com/db-ui/core/blob/gh-pages/patterns/components/index.html
 
