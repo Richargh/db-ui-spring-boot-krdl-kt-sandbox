@@ -41,6 +41,9 @@ Helpful links to get this working were:
 | https://db-ui.github.io/core/?p=viewall-components-dialog[Dialog Component]
 | https://github.com/db-ui/core/blob/gh-pages/patterns/components-dialog/index.html
 
+| link:https://db-ui.github.io/core/?p=viewall-components-form[Form Component]
+| https://github.com/db-ui/core/blob/gh-pages/patterns/components-form/index.html
+
 | link:https://db-ui.github.io/core/?p=viewall-components-table[Table Component]
 | https://github.com/db-ui/core/blob/gh-pages/patterns/components-table/index.html
 
