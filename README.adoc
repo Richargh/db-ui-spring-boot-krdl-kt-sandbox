@@ -20,31 +20,42 @@
 
 Helpful links to get this working were:
 
-[cols="1,1" options="header"]
+[cols="1,1,1" options="header"]
 |===
-| Site
-| Code
+| Docs
+|
+|
 
 | link:https://db-ui.github.io/core/?p=pages-sample-page[Sample Page]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/pages-sample-page/pages-sample-page.rendered.html
+| link:https://github.com/db-ui/core/blob/main/source/_patterns/04-pages/sample-page.hbs[Template]
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/pages-sample-page/pages-sample-page.rendered.html[Example]
+
+
 
 | link:https://db-ui.github.io/core/?p=viewall-elements-all[All Elements]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/elements/index.html
+|
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/elements/index.html[Example]
 
 | link:https://db-ui.github.io/core/?p=viewall-elements-input[Input Element]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/elements-input/index.html
+| link:https://github.com/db-ui/core/blob/main/source/_patterns/01-elements/input/input.hbs[Template]
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/elements-input/index.html[Example]
+
 
 
 | link:https://db-ui.github.io/core/?p=viewall-components-all[All Components]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/components/index.html
+|
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/components/index.html[Example]
 
 | https://db-ui.github.io/core/?p=viewall-components-dialog[Dialog Component]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/components-dialog/index.html
+| link:https://github.com/db-ui/core/blob/main/source/_patterns/02-components/dialog/dialog.hbs[Template]
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/components-dialog/index.html[Example]
 
 | link:https://db-ui.github.io/core/?p=viewall-components-form[Form Component]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/components-form/index.html
+| link:https://github.com/db-ui/core/blob/main/source/_patterns/02-components/form/example-form.hbs[Simple Template]
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/components-form/index.html[Example]
 
 | link:https://db-ui.github.io/core/?p=viewall-components-table[Table Component]
-| https://github.com/db-ui/core/blob/gh-pages/patterns/components-table/index.html
+| link:https://github.com/db-ui/core/blob/main/source/_patterns/02-components/table/table.hbs[Template]
+| link:https://github.com/db-ui/core/blob/gh-pages/patterns/components-table/index.html[Example]
 
 |===
